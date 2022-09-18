@@ -2,6 +2,10 @@
   --priority-color: #3E9CDC;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   color: #fff;
   font-family: "Lato";
